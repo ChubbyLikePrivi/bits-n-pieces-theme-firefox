@@ -22,7 +22,7 @@
 <p>You can change the accent color via <code>custom.css</code> via HEX codes, in the line containing: <br><br><code>--mf-accent-color: #F46762 !important;</code> <br><br> </p>
 
 <h3 align="left">Example Colors 🖌️</h2>
-<p>-  Red 🟥 <code>#F46762</code> (Default)</p>
+<p>-  Red 🟥 <code>#F46762</code> (Default of <code>custom.css</code>)</p>
 <p>-  Blue 🟦 <code>#0078D4</code> (Default of Windows)</p>
 
 
