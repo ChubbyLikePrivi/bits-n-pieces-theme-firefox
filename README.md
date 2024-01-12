@@ -23,7 +23,7 @@
 
 <h3 align="left">Example Colors 🖌️</h2>
 <p>-  Red 🟥 <code>#F46762</code> (Default)</p>
-<p>-  Blue 🟦 <code>#F46762</code> (Default of Windows)</p>
+<p>-  Blue 🟦 <code>#0078D4</code> (Default of Windows)</p>
 
 
 ###
