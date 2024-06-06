@@ -1,5 +1,6 @@
 <h1 align="center">Bits + Pieces Theme for Firefox 🦊</h1>
 
+###
 
 <h2 align="center">Screenshots 📸</h2>
 
