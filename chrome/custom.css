@@ -1,10 +1,13 @@
 :root,
 html,
 body {
-    /* CSS Here */
-    @-moz-document url-prefix(about:home), url-prefix(about:newtab) { .click-target-container *, .top-sites-list * { color: #fff !important ; text-shadow: 2px 2px 2px #000 !important ; }
-    body { background-image: url(bits_n_pieces.png) !important ; background-size: cover !important ; background-repeat: no-repeat !important ;  background-position: center; !important ;  background-color: #030303 !important ; } }
-
     /* Change the Accent Color via HEX codes Here */
     --mf-accent-color: #F46762 !important;
+}
+
+*,
+*::before,
+*::after {
+    @-moz-document url-prefix(about:home), url-prefix(about:newtab) { .click-target-container *, .top-sites-list * { color: #fff !important ; text-shadow: 2px 2px 2px #000 !important ; }
+    background-image: url(bits_n_pieces.png) !important; background-size: cover !important; background-repeat: no-repeat !important;  background-position: center; !important; background-color: #030303 !important; }
 }
